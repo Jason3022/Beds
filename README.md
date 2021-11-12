@@ -1,2 +1,2 @@
 # Obsidian
-Obsidian图床
+Obsidian Beds
